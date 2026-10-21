@@ -27,6 +27,10 @@ Everything runs in your browser. Your card is never uploaded anywhere.
 
 Cards checked here import directly into [RolePlaya](https://roleplaya.com), the AI roleplay platform for adults (18+), along with most other card-compatible apps. See [how to import Janitor, Chub and SillyTavern cards](https://roleplaya.com/blog/import-janitor-chub-sillytavern-cards/).
 
+## Related
+
+- [Character Card Maker](https://roleplayadotcom.github.io/character-card-maker/): create or edit a card and download it as PNG or JSON
+
 ## Licence
 
 MIT. Free to use, copy and change.
